@@ -1,1 +1,23 @@
-
+{
+  "users": [
+    {
+      "userId": 123456789,
+      "username": "EndpointTest",
+      "displayName": "Endpoint Test",
+      "firstSeenAt": "2026-07-06T21:28:14.593Z",
+      "lastSeenAt": "2026-07-06T21:28:14.593Z",
+      "executionCount": 1,
+      "lastExecution": {
+        "username": "EndpointTest",
+        "displayName": "Endpoint Test",
+        "userId": 123456789,
+        "placeId": 1,
+        "gameId": 1,
+        "jobId": "curl-test",
+        "executedAt": "2026-07-06T21:35:00Z",
+        "loggedAt": "2026-07-06T21:28:14.593Z",
+        "userAgent": "curl/8.19.0"
+      }
+    }
+  ]
+}
